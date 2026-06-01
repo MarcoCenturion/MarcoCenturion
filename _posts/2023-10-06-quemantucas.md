@@ -80,7 +80,7 @@ Lo que queda de las tropas leales, proponen al general un duelo de gallito inter
 
 Cabecea en gesto negativo el general Slamastik, en creciente y entendible enojo hacia si mismo, observando franqueza en los ojos de los soldados al tiempo que razona:
 
-> Lo dicen en serio.
+> Hablan en serio.
 
 > ¿Quién me manda a mi con estos pelotudos? 
 
