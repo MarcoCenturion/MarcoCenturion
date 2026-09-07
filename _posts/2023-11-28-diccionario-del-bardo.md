@@ -341,17 +341,19 @@ flowchart LR
 
 > Dudoso como un presente griego.  --Stephen Dedalus.  Ulisses.  No tenía nada que ver pero lo usé por la cercanía espacial. 
 
-**Camino**  *Lat. Camminus del celta camanon*.  Terreno por el que se transita.    
+**Camino**  *Lat. Camminus del celta camanon*.  Tierra hollada por el que se transita habitualmente, terreno que se interpone con nuestros deseos.  Utilizando el comodín *camín* podemos derivar no solo el sustantivo camino, sino también el verbo caminar, que indica mas que la acción de transitar ese camino algo mucho mas allá, mucho mas significativo, que no es solo andar sino una intención ulterior.  Encaminar, en esa dirección, parece indicar un propósito en el accionar.
 
-> Dice que no dejes que crezca el pasto en el camino de la amistad --Dejemos hablar al viento.  Juan Carlos Onetti[^13].
-
-[^13]: Juan Carlos Onetti Borges, fue un escritor uruguayo demasiado humano, demasiado argentino.  Los uruguayos dicen que Onetti es su Borges, no solo porque su madre tenía ese apellido, sino por el tamaño enorme de su obra literaria.  Si llegaste hasta aquí, leé todo lo que escribió, urgente.
+> Dice que no dejes que crezca el pasto en el camino de la amistad --Dejemos hablar al viento.  Juan Carlos Onetti, ese uruguayo demasiado argentino.  Allá dicen que Onetti es su Borges, no solo porque su madre tenía ese apellido, sino por el tamaño enorme de su obra literaria.  Si llegaste hasta aquí, leé todo lo que escribió, urgente.
 
 > Porque te quiero a ti, se hace mas corto el camino aquel.  --Tu nombre me sabe a hierba.  Joan Manuel Serrat.
 
 > Es preferible el camino a la posada.  --Dicen que la dijo Don Quijote, pero no está en la novela de Cervantes.
 
 > Si está depilada, es porque está ocupada, porque el pasto no crece en la tierra caminada.  --Flores de Valle Alegre.  Odiseo Torres.
+
+> ...al andar se hace camino y al volver la vista atrás, se ve la senda que nunca se ha de volver a pisar.  --Antonio Machado. 
+
+> Oigame Compay no deje el camino por coger la vereda.  Del Camino a la Vereda.  Buena Vista Social Club.
 
 **Cancha** *Quichua.*  Terreno plano y limpio. Por mucho tiempo, la voz americana más esparcida por el globo, hasta la llegada de un tal **Diego Armando Maradona,** quien llega para reforzar este concepto, desplaza el sustantivo anterior y pasa ocupar el lugar de vocablo americano más escrito, pintado, cantado, querido, etc. ya que es bien sabido que el sustantivo Maradona dejó de ser utilizado para nombrar una persona para convertirse en un conjuro de resistencia.  Cancha, un terreno relativamente pequeño, su incremento en tamaño da paso al sustantivo **Campo**.
 
@@ -1545,15 +1547,17 @@ Y sin haber pisado un barco en la vida, imaginamos velas preñadas de aire, foqu
 
 **Nave**  *Lat. navis y este del Gr. ναῦς*.  Las naves fueron diseñadas originalmente para navegar medios acuosos, pero llegado el siglo XIX comienza el viaje por otros medios como el aire.  Pasada la mitad del siglo XX ya hay viajes a través del vacío espacial.  Esta cuestión del vacío pone en duda la banderita gringa en la luna, flameando como si hubiera aire.  La fabricación de aviones a partir de largueros y costillas de madera, muestra cuanto dependemos de formas de pensar anteriores, viejas respuestas para nuevas preguntas.  Nuestras limitaciones, siempre son las limitaciones de nuestra época.
 
-**Negocio** *Lat. Nec Otium - Ninguna de las partes está ociosa.*  Nadie puede obtener beneficios sin algo a cambio, para que sea un negocio.  Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de indivíduos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poderi concluir satisfactoriamente la existencia de una **utilidad**.  La sociedad toda se encargó de ocultar estos datos.[^4]
+**Negocio** *Lat. Nec Otium - Ninguna de las partes está ociosa.*  Nadie puede obtener beneficios sin algo a cambio, para que sea un negocio.  Concepto tan antiguo como la civilización occidental, de compleja comprensión en tiempos de indivíduos que solo observan su ombligo.  Luego, no existen negocios unilaterales, por definición.  Un negocio con beneficios para una sola de las partes, deja de serlo para convertirse en una estafa.  Curioso extrapolarlo a nivel global y estimar el beneficio que la humanidad le da al planeta.  Un economista Rumano, planteó en los 50's estimar el costo de limpiar el medio ambiente, para recien ahí poderi concluir satisfactoriamente la existencia de una **utilidad**.  La sociedad toda se encargó de ocultar estos datos.
 
-[^4]: Nicholas Georgescu-Roegen.  Economista y Doctor en Filosofía.  Analiza la economía en función de la biología y la termodinámica.  Sostiene   "Es imposible un crecimiento exponencial indefinido en un medio ambiente que es finito." Quien afirme esto es un loco o un economista.  VER: "La ley de la entropía y el proceso económico".  
+> Nicholas Georgescu-Roegen.  Economista y Doctor en Filosofía.  Analiza la economía en función de la biología y la termodinámica.  Sostiene   "Es imposible un crecimiento exponencial indefinido en un medio ambiente que es finito." Quien afirme esto es un loco o un economista.  VER: "La ley de la entropía y el proceso económico".  
+
+**Neolengua**  Síntesis a que apunta el idioma de la distpía de George Orwell **1984** la eliminación sistemática de vocablos para que no exista el sentimiento asociado a ello.
 
 **Neutro** *Lat. Neuter.  Ni uno ni lo otro.*  Concepto útil en política para medir el grado de fascismo de tu interlocutor momentáneo.  Ante una pregunta políticamente comprometedora, responderá
 
-> Yo soy neutro, apolítico.  --Síntoma irrefutable del **fascista asintomático** [^40].
+> Yo soy neutro, apolítico.  --Síntoma irrefutable del **fascista asintomático**
 
-[^40]: El peor analfabeto es el analfabeto político. No oye, no habla, no participa de los acontecimientos políticos. No sabe que el coste de la vida, el precio de las alubias, del pan, de la harina, del vestido, del zapato y de los remedios, dependen de decisiones políticas. El analfabeto político es tan burro que se enorgullece y ensancha el pecho diciendo que odia la política. No sabe que de su ignorancia política nace la prostituta, el menor abandonado y el peor de todos los bandidos que es el político corrupto, mequetrefe y lacayo de las empresas nacionales y multinacionales. —Bertolt Brecht
+> El peor analfabeto es el analfabeto político. No oye, no habla, no participa de los acontecimientos políticos. No sabe que el coste de la vida, el precio de las alubias, del pan, de la harina, del vestido, del zapato y de los remedios, dependen de decisiones políticas. El analfabeto político es tan burro que se enorgullece y ensancha el pecho diciendo que odia la política. No sabe que de su ignorancia política nace la prostituta, el menor abandonado y el peor de todos los bandidos que es el político corrupto, mequetrefe y lacayo de las empresas nacionales y multinacionales. —Bertolt Brecht
 
 **Ninguno** *Lat. Nec unus*.  Originalmente el témino utilizado para el indefinido era nullus, de donde llega a nuestros días nulo.  Por caprichos de los idiomas sobrevivió en el habla cotidiana ninguno.  De aquí proviene el verbo ningunear.  Una rata de biblioteca acusa a Eduard Gibbon de cierta omisión en su obra *Decline and Fall* de la que sale airoso aunque aturdido, aunque *no tardó en descubrir que este vano estrépito era solo dañino en el propósito*.
 
